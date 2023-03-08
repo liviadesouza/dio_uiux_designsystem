@@ -1,4 +1,4 @@
-# 💾 Projeto: Wireframe de Média Fidelidade
+# 💾 Projeto: Design System
 
 ![Protótipo de Média Fidelidade da página inicial de um aplicativo de adoção](https://i.ibb.co/85rLc6G/dio-design-system.png)
 
